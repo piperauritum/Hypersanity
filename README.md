@@ -70,4 +70,4 @@ The materials below are available to those who contact the composer.
 
 ### License
 
-See `LICENSE.md`.
+See [LICENSE.md](LICENSE.md).
